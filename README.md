@@ -1,37 +1,30 @@
-![](https://i.imgur.com/xG74tOh.png)
 
-# Aula prática de React - Cubos Player
+<h2 align="center">
+ Cubos Player
+</h2>
 
-Essa aula prática consiste em desenvolver um player de músicas, para isso você usará o layout figma que se encontra nesse [link](https://www.figma.com/file/2RRh9uG0Mjj6p4p6ekVnNp/Cubos-Player?node-id=0%3A1).
+## 🔗 Link do projeto
+[Cubos Player ](https://carlpess.github.io/player-react-cubos/)
+## 
+Exercício executado durante o curso na Cubos Academy.
+O objetivo do projeto era criar um player de musicas responsivos utilizando ReactJS.
 
+## ⚙️  Executando
 
-Caso você queira importar o arquivo do figma no seu computador, ele está nessa pasta com o nome `Cubos Player.fig`
+Ao clicar em uma música, o nome da mesma e o nome do artista serão exibidos no canto inferior esquerdo da tela, podendo dar Play, Pause, Stop, passar para a próxima musica ou voltar para a anterior.
 
+Uma barra de progresso da musica também está presente e seu progresso corresponde ao o da música que está em reprodução.
 
-Os detalhes do que você precisará desenvolver está nos vídeos introdutórios da aula...
+## 🛠️  Construído com
 
-
-... mas o layout que você irá encontrar no figma é esse:
-
-![](https://i.imgur.com/kU1nrcS.png)
-
-
-
-### Dicas
-
-Você usará:
-- Estados (useState)
-- Referẽncias (useRef)
-- Eventos
-- Props de:
-    - valores
-    - referências
-    - funções
-
-As duas aulas anteriores são as mais importantes para você conseguir desenvolver esse projeto.
-
-
+<div>
+  <img height=30 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img height=30 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img height=30 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img height=30 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
 ---
+:godmode: por [carlpess (Carlos Pessoa)](https://github.com/carlpess)
 
 Preencha a checklist para fazer os exercícios:
 
