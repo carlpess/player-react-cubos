@@ -7,7 +7,7 @@
 [Cubos Player ](https://carlpess.github.io/player-react-cubos/)
 ## 
 Exercício executado durante o curso na Cubos Academy.
-O objetivo do projeto era criar um player de musicas responsivos utilizando ReactJS.
+O objetivo do projeto era criar um player de musicas responsivo utilizando ReactJS.
 
 ## ⚙️  Executando
 
